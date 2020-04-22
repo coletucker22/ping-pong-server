@@ -1,0 +1,6 @@
+{
+    "name": "my-first-server",
+    "dependencies": {
+        "express": "^4.17.1"
+    }
+}
